@@ -12,4 +12,4 @@ Tasks include:
     Manual mailbox access
 
     Internal mail testing and verification
-    Screenshots document each step.
+    
